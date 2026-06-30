@@ -7,7 +7,6 @@ This project studies the impact of imbalanced datasets on Network Intrusion Dete
 ## Techniques
 
 - ADASYN
-- SMOTE
 
 ## Models
 
